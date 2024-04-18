@@ -1,0 +1,14 @@
+.responsive {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background-color: unset;
+}
+
+.country {
+  border-radius: 10%;
+  border-color: black;
+  box-shadow: 10px 10px 10px rgba(114, 88, 88, 0.233);
+  padding: 10%;
+}

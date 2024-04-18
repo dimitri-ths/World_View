@@ -1,0 +1,42 @@
+.nav {
+  padding: 0.6%;
+  margin: 0%;
+  background-color: #010027;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(41, 96, 145);
+}
+
+.country {
+  border-radius: 10%;
+  border-color: black;
+  box-shadow: 10px 10px 10px rgba(114, 88, 88, 0.233);
+  padding: 10%;
+}
+
+.searchBar {
+  padding: 2rem, 1rem;
+}
+
+.searchBar input {
+  font-size: 1.2rem;
+  padding: 0.5rem, 1rem;
+}
+
+.searchBar__results {
+  width: 100%;
+}
+
+.search__result {
+  border: 1px solid #010027;
+  margin: 0.4rem 1rem;
+  padding: 0.4rem;
+}
+
+.tittle {
+  font-family: Pattaya, sans-serif;
+  margin: 10%;
+  font-size: 90px;
+  text-align: center;
+  color: rgb(253, 253, 253);
+}
